@@ -3,3 +3,24 @@
 
 ## JavaSec
 CC1: https://github.com/ppppp1ng/study/blob/main/CommonsCollections1%20analyze.md
+CC6: https://github.com/ppppp1ng/study/blob/main/CommonsCollections6%20analyze.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+收藏的其他大师傅的blog:
+Drunkbaby: https://github.com/Drun1baby/JavaSecurityLearning
+Y4tacker: https://github.com/Y4tacker/JavaSec
