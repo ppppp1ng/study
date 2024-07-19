@@ -21,6 +21,9 @@ CC6: https://github.com/ppppp1ng/study/blob/main/CommonsCollections6%20analyze.m
 
 
 
-收藏的其他大师傅的blog:
+## 收藏的其他大师傅的blog:
 Drunkbaby: https://github.com/Drun1baby/JavaSecurityLearning
+
 Y4tacker: https://github.com/Y4tacker/JavaSec
+
+Harder: https://ha2der.github.io/
