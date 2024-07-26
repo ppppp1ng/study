@@ -10,7 +10,11 @@ CC1: https://github.com/ppppp1ng/study/blob/main/JavaSec/CommonsCollections1%20a
 CC6: https://github.com/ppppp1ng/study/blob/main/JavaSec/CommonsCollections6%20analyze.md
 
 
+## PHPSec
 
+### ThinkPHP
+
+反序列化: https://github.com/ppppp1ng/study/blob/main/phpsec/ThinkPHPv8.0.1%20%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md
 
 
 
