@@ -7,6 +7,8 @@
 
 CC1: https://github.com/ppppp1ng/study/blob/main/JavaSec/CommonsCollections1%20analyze.md
 
+CC4: https://github.com/ppppp1ng/study/blob/main/JavaSec/CommonsCollections4%20analyze.md
+
 CC6: https://github.com/ppppp1ng/study/blob/main/JavaSec/CommonsCollections6%20analyze.md
 
 
