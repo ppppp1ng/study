@@ -11,6 +11,10 @@ CC4: https://github.com/ppppp1ng/study/blob/main/JavaSec/CommonsCollections4%20a
 
 CC6: https://github.com/ppppp1ng/study/blob/main/JavaSec/CommonsCollections6%20analyze.md
 
+CC7: https://github.com/ppppp1ng/study/blob/main/JavaSec/CommonsCollections7%20analyze.md
+
+CB1: https://github.com/ppppp1ng/study/blob/main/JavaSec/CommonsBeanUtils1%20Analyze.md
+
 
 ## PHPSec
 
