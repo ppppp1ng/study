@@ -30,7 +30,9 @@ ps: 看到什么有意思就复现了什么了
 
 
 
+## 参与过的CTF的WP
 
+失败的2024羊城杯: https://github.com/ppppp1ng/study/blob/main/CTF/2024%E7%BE%8A%E5%9F%8E%E6%9D%AF.md
 
 
 
