@@ -34,6 +34,7 @@ ps: 看到什么有意思就复现了什么了
 
 失败的2024羊城杯: https://github.com/ppppp1ng/study/blob/main/CTF/2024%E7%BE%8A%E5%9F%8E%E6%9D%AF.md
 
+被队友带飞的2024长城杯: https://mp.weixin.qq.com/s/p1yh7AhjGKG4RsJ3KlP4yQ
 
 
 
